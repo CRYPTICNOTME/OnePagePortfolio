@@ -1,0 +1,66 @@
+body{
+  background-color: rgb(190, 176, 167);
+  overflow: hidden;
+}
+
+#welcome{
+  font-size: 60px;
+  color: rgb(138, 43, 226);
+  padding-left: 130px;
+  padding-top: 130px;
+  z-index: 1;
+}
+
+#bio{
+  width: 600px;
+  font-size: 30px;
+  padding-left: 170px;
+  padding-top: 20px;
+}
+
+#Image1{
+  border-radius: 130px;
+  position: absolute;
+  padding: 100px;
+  top: -40px;
+  right: 0px;
+  width: 250px;
+  height: 300px;
+}
+
+#Image2{
+  border-radius: 130px;
+  position: absolute;
+  padding: 100px;
+  top: -40px;
+  right: 280px;
+  width: 250px;
+  height: 300px;
+}
+
+#Image3{
+  border-radius: 130px;
+  position: absolute;
+  padding: 100px;
+  top: 310px;
+  right: 0px;
+  width: 250px;
+  height: 300px;
+}
+
+#Image4{
+  border-radius: 130px;
+  position: absolute;
+  padding: 100px;
+  top: 310px;
+  right: 280px;
+  width: 250px;
+  height: 300px;
+}
+
+#AltText{
+  font-size: 20px;
+  position: absolute;
+  top: 380px;
+  right: 250px;
+}
